@@ -1,0 +1,6 @@
+id,name,Fare
+1,Adam,1.5
+2,Bob,1.8
+3,Chris,2.1
+4,Daniel,0.7
+5,Ethan,3.9
